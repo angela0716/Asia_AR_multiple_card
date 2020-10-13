@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/multiple card.unity
+- path: "Assets/\u591A\u91CD\u5361\u7247.unity"
   isLoaded: 1
   isActive: 1
   isSubScene: 0
